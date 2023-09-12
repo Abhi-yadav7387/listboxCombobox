@@ -1,0 +1,10 @@
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.csproj.AssemblyReference.cache
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.Form1.resources
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.Properties.Resources.resources
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.csproj.GenerateResource.cache
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.csproj.CoreCompileInputs.cache
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\bin\Debug\ListBoxandComboBox.exe.config
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\bin\Debug\ListBoxandComboBox.exe
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\bin\Debug\ListBoxandComboBox.pdb
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.exe
+D:\bcs c2\ListBoxandComboBox\ListBoxandComboBox\obj\Debug\ListBoxandComboBox.pdb
